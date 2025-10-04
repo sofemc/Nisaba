@@ -1,0 +1,622 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "احيدر ديوان",
+			"subject": "مدرس    متميزين",
+			"image": "https://i.imghippo.com/files/ufow6877cQ.jpg",
+			"classes": [
+			  {
+				"name": "الاساسيات",
+				"lectures": [
+					{
+						"title": "Basics: lecture One",
+              "url": "https://iframe.mediadelivery.net/embed/215061/705de5e3-4632-4e63-b03b-a690095c1ab4"
+            },
+            {
+              "title": "Basics: lecture Two",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c6f13752-bb54-47c0-85e3-b1cff1d3516a"
+            },
+            {
+              "title": "Basics: lecture Three",
+              "url": "https://iframe.mediadelivery.net/embed/215061/edf9b1a5-a1e3-4fe0-b9ea-5097689838b2"
+            },
+            {
+              "title": "Chapter One / Capacitors / L1",
+              "url": "https://iframe.mediadelivery.net/embed/215061/19aec7db-747b-47a3-bf15-1eb6288b0565"
+            },
+            {
+              "title": "Lesson 2: Capacitor",
+              "url": "https://iframe.mediadelivery.net/embed/215061/03537397-ca79-4aed-b4c0-116ad0ac39b0"
+            },
+            {
+              "title": "Lesson 3: Dielectric",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f46fc088-c319-4000-b679-f408fa4b677a"
+            },
+            {
+              "title": "Lesson 4: Dielectric 2",
+              "url": "https://iframe.mediadelivery.net/embed/215061/cebfabf1-526c-48ee-b2f2-5bfcdb72727a"
+            },
+            {
+              "title": "Lesson 5: Potential Energy",
+              "url": "https://iframe.mediadelivery.net/embed/215061/26d0de05-ae9d-4356-9997-672289895e35"
+            },
+            {
+              "title": "Lesson 6: Dielectric Material",
+              "url": "https://iframe.mediadelivery.net/embed/215061/f4df799c-c63c-42ea-af78-8bc08942c018"
+            },
+            {
+              "title": "Lesson 7: Dielectric Material 2",
+              "url": "https://iframe.mediadelivery.net/embed/215061/12ace0c3-1ac2-43c6-b267-05dc1d7afc51"
+            },
+            {
+              "title": "Lesson 8: Dielectric Material 3",
+              "url": "https://iframe.mediadelivery.net/embed/215061/14dfbf54-59b5-4d0a-8d88-20895add52ee"
+            },
+            {
+              "title": "Lesson 9: When Air is Dielectric",
+              "url": "https://iframe.mediadelivery.net/embed/215061/69e19e1e-c563-453b-8fd4-fb30c315ab3a"
+            },
+            {
+              "title": "Lesson 10: Proportion Between Capacitance Area of Plate",
+              "url": "https://iframe.mediadelivery.net/embed/215061/71e654e3-cd14-471e-aaf0-70578653e531"
+            },
+            {
+              "title": "Lesson 11: Individual Capacitor’s Laws Review",
+              "url": "https://iframe.mediadelivery.net/embed/215061/fba07169-4cd0-4be5-ad7b-f7e03375d4fb"
+            },
+            {
+              "title": "Lesson 12: Combination of Capacitors",
+              "url": "https://iframe.mediadelivery.net/embed/215061/ebdaffb4-5bdc-4fe2-8bfe-425a0de22d7e"
+            },
+            {
+              "title": "Lesson 13: Questions on Parallel Combination of Capacitors",
+              "url": "https://iframe.mediadelivery.net/embed/215061/46dc139d-17c7-4781-b455-c429718529a6"
+            },
+            {
+              "title": "Lesson 14: Questions on Parallel Combination (Part 2)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/54e7c0bf-e016-4c57-af58-0f0b4e476b70"
+            },
+            {
+              "title": "Lesson 15: Questions on Parallel Combination (Part 3)",
+              "url": "https://iframe.mediadelivery.net/embed/215061/c9b15183-864d-4e98-96d0-6e11284f8d0b"
+            },
+            {
+             "title": "Lesson 16: (K) is not identified",
+    "url": "https://iframe.mediadelivery.net/embed/215061/10e8df6f-7194-493b-a106-a8258cbe9a57",
+    "description": "﴿ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ ﴾"
+  },
+  {
+    "title": "Lesson 17: The purposes of parallel and series capacitor combinations",
+    "url": "https://iframe.mediadelivery.net/embed/215061/39e2805d-fd70-4086-a50e-a88decc81c42",
+    "description": "﴿ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ ﴾"
+  },
+  {
+    "title": "Lesson 18: Series Combination",
+    "url": "https://iframe.mediadelivery.net/embed/215061/162f69f7-4dfe-48b2-8216-dfb6e572fdb8",
+    "description": "﴿ كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ ﴾"
+  },
+  {
+    "title": "Lesson 19: The purposes of series combinations of capacitors",
+    "url": "https://iframe.mediadelivery.net/embed/215061/a676be7d-fbb7-42c3-86ef-dec5b1760200",
+    "description": "﴿ وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ ﴾"
+  },
+  {
+    "title": "Lesson 20: Double Combination",
+    "url": "https://iframe.mediadelivery.net/embed/215061/70dbaf04-f79a-46ef-bac3-dc75891b835e",
+    "description": "﴿ وَفِي كُلِّ شَيْءٍ لَهُ آيَةٌ ﴾"
+  },
+  {
+    "title": "Lesson 21: Double Combination - Part 2",
+    "url": "https://iframe.mediadelivery.net/embed/215061/e0ca1b7c-b5c7-4f16-a0e6-999411fabf58",
+    "description": "﴿ وَاللَّهُ يُخْرِجُكُم مِّنْ بُطُونِ أُمَّهَاتِكُمْ ﴾"
+  },
+  {
+    "title": "Lesson 22: Double Combination - Part 3",
+    "url": "https://iframe.mediadelivery.net/embed/215061/11ff870a-d898-45e1-8208-83492b067d2c",
+    "description": "﴿ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ ﴾"
+  },
+  {
+    "title": "Lesson 23: R-C Circuit",
+    "url": "https://iframe.mediadelivery.net/embed/215061/afcb4c6f-f9db-427e-bd61-adb9403deb2f",
+    "description": "﴿ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ ﴾"
+  },
+  {
+    "title": "Lesson 24: R-C Circuit (Part 2)",
+    "url": "https://iframe.mediadelivery.net/embed/215061/bc0bebc6-1cac-44a8-8515-57bf3bcbec5e",
+    "description": "﴿ وَاتَّقُوا اللَّهَ وَيُعَلِّمُكُمُ اللَّهُ ﴾"
+					}
+				]
+			  }
+			]
+		  },
+		  {
+			"id": 2,
+			"name": "تماضر مؤيد",
+			"subject": "مدرسة فرنسي ",
+			"image": "https://d157djim0keagl.cloudfront.net/fd0622fa-19d7-4b20-a7e9-577b7f9eba35.png",
+			"classes": [
+			  {
+				"name": "Les Fantômes du métro",
+				"lectures": [
+					{
+						  "title": "الاساسيات",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/2e7313e5-50f9-411d-b06e-d0a5d667b726"
+        },
+        {
+          "title": "المضارع",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/d1ba5ea0-45cc-4b25-b736-f475bf35449a"
+        },
+        {
+          "title": "المضارع الجزء الثاني",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/23f30743-09e9-4c97-bbed-d8fd78646eca"
+        },
+        {
+          "title": "الماضي المستمر",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/751d2477-5637-42cb-8d4c-e2370f07e806"
+        },
+        {
+          "title": "أحلام المجد 1",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/6f952c60-cca6-458b-bb44-c06ba2c8aa18"
+        },
+        {
+          "title": "الماضي المركب",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/af5af9e3-d937-4078-b8a7-0c236182c506"
+        },
+        {
+          "title": "الماضي التام (الأسبق)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/2af46a3b-2570-4a80-982d-129fc3d9cad5"
+        },
+        {
+          "title": "صيغة النصب",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/e600e046-86a8-4c52-9a47-ef05cd346c04"
+        },
+        {
+          "title": "الماضي البسيط",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/b4852ab8-d894-4262-9eaf-dd257fce433b"
+        },
+        {
+          "title": "المستقبل الأسبق والمخططات الذهبية",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/a0869b00-99c6-44dc-a16b-24ba8649f5da"
+        },
+        {
+          "title": "الشرط الحاضر",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/450ae611-fe96-4b46-b9a3-d447212cce20"
+        },
+        {
+          "title": "الشرط الماضي",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/3b757e0c-07c0-4f19-a1e7-0ac4a9f822fc"
+        },
+        {
+          "title": "الأمر، والحال، واسم الفاعل",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/210e00af-c71d-4104-93a4-ca3f6024cf29"
+        },
+        {
+          "title": "أحلام المجد 2",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/2a0f5014-efad-4fd4-ae08-84d446bd2984"
+        },
+        {
+          "title": "النفي",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/8e0e7d52-dc14-4389-bb85-2ea64c3b352"
+					  }
+				]
+			  }
+			]
+		  },
+		  {
+			"id": 3,
+			"name": "محمد العنزي",
+			"subject": "مدرس مادة احياء",
+			"image": "https://d157djim0keagl.cloudfront.net/8614b85e-673e-4e2c-ac7a-da41962398a9.png",
+			"classes": [
+			  {
+				"name": "The cell",
+				"lectures": [
+					{
+						"title": "The cell",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/f0959306-f72b-4673-9ca2-9cb349ddeae9"
+        },
+        {
+          "title": "Prokaryotic cell and eukaryotic cell",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/03c62b7f-b67c-4c19-9573-6e0cc72ec9fe"
+        },
+        {
+          "title": "The components of eukaryotic cell",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/eb011126-6662-4225-937b-4753806d8a25"
+        },
+        {
+          "title": "Endoplasmic reticulum and Golgi apparatus",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/b17bdb1a-a30b-4251-ae98-a988ee12fcf7"
+        },
+        {
+          "title": "Mitochondria and Plastids",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/775dc858-e661-4738-b553-74e65ed7760c"
+        },
+        {
+          "title": "Lysosomes and Cytoskeleton",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/8544c077-173b-4bc3-9488-10c0c53c2f14"
+        },
+        {
+          "title": "Centrosome, Kinetosome, Vacuoles and Non-living Contents",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/8a42fa1b-f93e-4b49-b9ae-a1589467ed1a"
+        },
+        {
+          "title": "Nucleus",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/ec4b6b05-14e8-4e00-8e7b-dd6511bfb56a"
+        },
+        {
+          "title": "Cell activities (Diffusion and Permeability)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/7bc8c590-91d3-416c-bba6-45e0758c377b"
+        },
+        {
+          "title": "Lecture 10 (Osmosis)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/1f0aeeeb-d87f-4a24-bf81-7195f258f755"
+        },
+        {
+          "title": "Osmosis Drawing",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/9002321e-5f35-4e71-9c0c-f0d228116422"
+        },
+        {
+          "title": "Active transport",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/318dc26d-4182-4d15-a154-36e9ed8b9e53"
+        },
+        {
+          "title": "Cell Metabolism",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/206973ef-8071-4e2b-9832-81b04c4f3089"
+        },
+        {
+          "title": "Aerobic respiration",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/35c60e7e-0b25-4d76-b0b3-59cbcac3e678"
+        },
+        {
+          "title": "Lecture 14 (Cell Division)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/ab30492a-0be0-4184-af7b-b40fb0bb8087"
+        },
+        {
+          "title": "Lecture 15 (Cell Division Part Two)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/c2c27a74-e385-41df-946b-735da17f9bdd"
+        },
+        {
+          "title": "Lecture 16 (Cell Division Part 3)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/49f2cc45-5b90-4ee1-a20d-49d4b6624de3"
+        },
+        {
+          "title": "Lecture 17 (Cell Division Part 4)",
+          "description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+          "url": "https://iframe.mediadelivery.net/embed/215061/40811e97-5df4-4caf-ab8b-ab94e23ff1f5"
+					  }
+				]
+			  }
+			]
+		  },
+		  {
+			"id": 4,
+			"name": "باسل الزبيدي",
+			"subject": "مدرس مادة الرياضيات",
+			"image": "https://i.imghippo.com/files/pQk7235Qg.png",
+			"classes": [
+				{
+					"name": "الأساسيات",
+					"lectures": [
+						{
+							"title": "المحاضرة 1 -مسائل العد (الجزء الاول)",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/8faa817c-7230-4c57-8b48-27342ac40189/720p/video.m3u8"
+						  }  
+					]
+				  },
+			  {
+				"name": "مبرهنة ذات الحدين",
+				"lectures": [
+					{
+						"title": "المحاضرة 1 -مسائل العد (الجزء الاول)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/19b2f9f9-262e-45a3-b156-6a18dfa94fec/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 2 -مسائل العد (الجزء الثاني)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/9b0e8e35-be89-4dcb-8ff8-32b36fedeece/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 3- مضروب العدد (الجزء الأول)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/21ac7c57-90c3-4088-b59b-d442d4d92ee0/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 4- مضروب العدد (الجزء الثاني)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/9a0f23f1-c784-40f1-81e6-f0de71363e83/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 5- التباديل",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/5c1de5e5-7478-4cd9-a59a-f6e06e8ecdf8/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 6-التباديل - الجزء الثاني",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/66e37b84-771f-4177-8310-29fe925dc068/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 7-التباديل (الجزء الثالث)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/53ac89cc-1627-44db-a0fd-c4d8e9ff3b3d/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 8- التوافيق (الجزء الأول)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/f5068fc7-4ef1-482e-aca1-343a77b0a1be/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 9-التوافيق (الجزء الثاني",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/fc9e9c91-a636-488c-b88a-99ef4f494475/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 10-التوافيق (الجزء الثالث)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/d878629b-efba-4845-9bcc-7094883eed2b/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 11-التوافيق (الجزء الرابع)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/fd679e35-598c-457c-abac-aa88e8e94018/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 12-التوافيق (الجزء الخامس)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/c4fdc8e6-c663-43d0-8dec-19a9f9633afd/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 13-مبرهنة ذات الحدين (الجزء الاول)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/3704641e-3dd1-4d55-b85c-ade86e79494b/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 14-مبرهنة ذات الحدين (الجزء الثاني)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/cb26108a-3cd1-47d0-b414-bae6e93092e1/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 15-مبرهنة ذات الحدين (الجزء الثالث)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/21c5ea74-7b29-4468-82f9-c3d98dedaf0c/720p/video.m3u8"
+					  },
+					  {
+						"title": "المحاضرة 16-مبرهنة ذات الحدين (الجزء الرابع)",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/afe0833f-5d05-49bb-ac46-8007972ffd87/720p/video.m3u8"
+					  }
+				]
+			  }
+			]
+		  },
+		  {
+			"id": 4,
+			"name": "سجاد العبيدي",
+			"subject": "مدرس مادة الانكليزي",
+			"image": "https://i.imghippo.com/files/xH1865lU.jpg",
+			"classes": [
+				{
+					"name": "الأساسيات",
+					"lectures": [
+						{
+							"title": "في اللغة الانجليزية (ed) إضافة",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/fae0d70a-e4c7-46e0-a046-e8b52436e9fa/720p/video.m3u8"
+						  },
+						  {
+							"title": "في اللغة الانجليزية (ing) إضافة",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/1138f878-d8fa-4ed2-8228-f4c237b53d16/720p/video.m3u8"
+						  },
+						  {
+							"title": "الجمع في اللغة الانجليزية (s) إضافة",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/5cb01382-c193-420f-a418-e6b10e0959d2/720p/video.m3u8"
+						  }
+			]
+		},
+			  {
+				"name": "The health service",
+				"lectures": [
+			{		
+				"title": "أدوات الربط",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/cce812a8-9008-44cf-a16e-00d7d82235a2/720p/video.m3u8"
+			},
+			{
+				"title": "اعلانات السجائر يجب أن تكون غير قانونية",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/3954a176-e22e-477a-be35-f5c65c0d1d16/720p/video.m3u8"
+			},
+			{
+				"title": "(ed, ing) الصفات المنتهية ب",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/4473a98c-71c0-4586-aa98-ed529584f9b3/720p/video.m3u8"
+			},
+			{
+				"title": "(ful,fully) الكلمات المنتهية ب",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/551c769b-a25b-4706-a689-82a1b77bd06e/720p/video.m3u8"
+			},
+			{
+				"title": "اصبع قدمي ينزف",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/603fabc7-aa58-478e-8759-99937ba45b13/720p/video.m3u8"
+			},
+			{
+				"title": "(اصبع قدمي ينزف (الجزء الثاني",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/03d0562c-15b7-4946-b7aa-bae0042cc94e/720p/video.m3u8"
+			},
+			{
+				"title": "العلاج والمفاصل",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/53035cc9-b698-401f-b442-be0a1a2102e8/720p/video.m3u8"
+			},
+			{
+				"title": "اسقاطات الوحدة الأولى",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/9aa6fca5-83e2-4925-bce2-b654f26bcc27/720p/video.m3u8"
+			},
+			{
+				"title": "الأفعال المركبة",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/032cc79d-fc78-46f2-b1f6-f3a5adb5a0dc/720p/video.m3u8"
+			},
+			{
+				"title": "الاضافات",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/75364eca-106c-4ab6-9e93-6cf3816fb5ab/720p/video.m3u8"
+			},
+			{
+				"title": "النصائح الأمرية",
+				"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+				"url": "https://vz-99e5c202-ca5.b-cdn.net/11690a72-fe77-44c5-ad97-9c086194dbdf/720p/video.m3u8"
+			}
+		]
+	}
+]
+},
+		  {
+			"id": 5,
+			"name": "عباس العامري",
+			"subject": "مدرس مادة الجغرافية",
+			"image": "https://i.imghippo.com/fles/JAM5573Vk.png",
+			"classes": [
+				{
+					"name": "جغرافية السكان: التعريف ومجالات الاهتمام",
+					"lectures": [
+						{
+							"title": "مفهوم جغرافية السكان",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/bce5b9ad-e48d-48e4-ab6e-38128fe40f73/720p/video.m3u8"
+						  },
+						  {
+							"title": "العوامل المؤثرة في توزيع السكان وكثافتهم",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/eda8f77a-a039-46bf-8227-54d13a5b5044/720p/video.m3u8"
+						  },
+						  {
+							"title": "نمو السكان ، الهجرة أسبابها وآثارها",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/bf0e03b7-8efd-4629-aadb-f9aa8b87a542/720p/video.m3u8"
+						  },
+						  {
+							"title": "تركيب السكان، هرم السكان، تكوين السكان",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/bbf6485b-8898-4270-9d08-ff5204e9ffbe/720p/video.m3u8"
+						  },
+						  {
+							"title": "المشكلة السكانية-السياسة السكانية",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/38dd3d27-b930-4cfe-9d78-8266dbe06201/720p/video.m3u8"
+						  },
+						  {
+							"title": "الدراسة التطبيقية لجغرافية السكان في العراق",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/fc4e3d5a-1c4f-443d-b38f-3c7ae5c98a69/720p/video.m3u8"
+						  }
+					  ]
+				  },
+			  {
+				"name": "جغرافية المدن وجغرافية الريف",
+				"lectures": [
+					{
+						"title": "جغرافية المدن",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/e0cc42cf-003a-41d4-96a8-dc3f7ba7ad2e/720p/video.m3u8"
+					}
+				]
+			  }
+			]
+		  },
+		  {
+			"id": 6,
+			"name": "عباس العامري",
+			"subject": "مدرس مادة التأريخ",
+			"image": "https://i.imghippo.com/files/AM5573Vk.png",
+			"classes": [
+				{
+					"name": "العراق في العهد العثماني",
+					"lectures": [
+						{
+							"title": "الحياة السياسية-معاهدة زهاب",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/c0377824-a778-4ff4-80bd-550c76e7d5fd/720p/video.m3u8"
+						  },
+						  {
+							"title": "عودة الحكم العثماني المباشر",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/e12727df-e4e7-466c-a793-ee197460a406/720p/video.m3u8"
+						  },
+						  {
+							"title": "الحياة الاقتصادية",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/0465e6b8-6e31-4cc9-aaa8-561c14a5f7c0/720p/video.m3u8"
+						  },
+						  {
+							"title": "الحرف والصناعات, التجارة",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/65c71565-36bf-43d2-b9a7-dc424bbc5fcd/720p/video.m3u8"
+						  },
+						  {
+							"title": "الحياة الإجتماعية، نتائج الحكم العثماني",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/696ca060-375d-41c1-a572-d3e8000fcdaf/720p/video.m3u8"
+						  },
+						  {
+							"title": "الولاة المصلحون في العراق",
+							"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+							"url": "https://vz-99e5c202-ca5.b-cdn.net/4bbac52d-6dd9-49e3-ad88-0acfe90b9e57/720p/video.m3u8"
+						  }
+					  ]
+				  },
+			  {
+				"name": "البلاد العربية في العهد العثماني",
+				"lectures": [
+					{
+						"title": "التوسع العثماني في البلاد العربية",
+						"description": "{وأن ليس للإنسان إلا ما سعى} ✨",
+						"url": "https://vz-99e5c202-ca5.b-cdn.net/b2153f29-9973-4efa-8c7d-b9df573b85c6/720p/video.m3u8"
+					 }
+          ]
+        }
+      ]
+    }
+  ]
+}
